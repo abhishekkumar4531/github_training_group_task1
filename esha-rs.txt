@@ -1,1 +1,6 @@
 Welcome to rebase sqash file.
+Hello this is the first change made in this file.
+This is the second change made in this file.
+This is the third change made in this file.
+This is the fourth change made in this file.
+This is the fifth change made in this file.
